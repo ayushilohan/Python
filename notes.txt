@@ -5,5 +5,3 @@ conda activate venv/
 note-> Use python as kernel
 
 pip install ipykernel
-
-//test
